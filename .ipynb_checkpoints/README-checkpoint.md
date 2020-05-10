@@ -1,5 +1,5 @@
 # covid19-prediction
-predicting covid19 using SIR model and lmfit
+predicting covid19 using SIR model
 
 ## Data 
 
