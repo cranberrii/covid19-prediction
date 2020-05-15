@@ -15,3 +15,5 @@ https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology
 https://scipython.com/book/chapter-8-scipy/additional-examples/the-sir-epidemic-model/
 
 https://towardsdatascience.com/infectious-disease-modelling-part-i-understanding-sir-28d60e29fdfc
+
+https://lmfit.github.io/lmfit-py/model.html
